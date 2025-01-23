@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Python fundamentals"
 teaching: 10
 exercises: 2
 ---
@@ -18,10 +18,5 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Variables
 
-In this lesson, we are going to...
-
-### What is Python?
-
-### What is PyGame?
