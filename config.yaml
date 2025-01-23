@@ -65,8 +65,7 @@ contact: 'martino.sorbaro@posteo.net'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.md
+episodes:
 
 # Information for Learners
 learners: 

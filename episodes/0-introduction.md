@@ -18,10 +18,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
-
 In this lesson, we are going to...
 
-### What is Python?
+## What is Python?
 
-### What is PyGame?
+## What is PyGame?
